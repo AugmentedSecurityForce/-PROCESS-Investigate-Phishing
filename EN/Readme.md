@@ -11,7 +11,7 @@ That's good, but it doesn't tell the extent of the theft.
 The analysis and recommendation phases will be described below.
 The diagram is available in the repo if needed.
 
-![diagram_fr](./Images/Diagram_EN.png)
+![diagram_fr](./Images/Diagram_EN.drawio.png)
 
 # Prerequisites
 In order to perform the analysis you will need a sandbox VM (Windows or Linux, with a network connection to the internet and capable of reading .msg and .eml files).
