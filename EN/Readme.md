@@ -24,6 +24,7 @@ You will also need the original emails to analyze.
 To obtain the following information, you must open the file via a text editor such as notepad++, notepad or VS Code.
 
 In some cases (for example with Office365), its information is to be obtained by opening the email then going to File > Property then copying the “internet headers” part into a text editor.
+
 ![Illustration](./Images/Headers.png)
 
 ## Transmitter control
@@ -152,13 +153,14 @@ VirusTotal provides instant URL rating from nearly 100 anti-virus solutions.
 
 On the other hand, it is longer (sometimes 10 minutes for a pdf) but in the event of a new threat, a more reliable result is obtained.
 
-[hybridAnalysis.png](./Images/hybridAnalysis.png)
+![hybridAnalysis.png](./Images/hybridAnalysis.png)
 
 # Report the email to the authorities
 
 Now that the threat is eradicated, let's help the community avoid being fooled by this spam by reporting it on[CISA](https://www.cisa.gov/uscert/report-phishing).
 
 # Approfondir le sujet
+
 ![sources](./Images/sources.jpg)
 
 [The Weakest Link – User Security Awareness Game](https://www.isdecisions.com/user-security-awareness-game/)
@@ -170,6 +172,7 @@ Now that the threat is eradicated, let's help the community avoid being fooled b
 [GoPhish – Simulated Phishing Exercise Toolkit](https://getgophish.com/)
 [SpearPhisher by TrustedSec – Simulated Phishing Exercise Toolkit](https://github.com/kevthehermit/SpearPhisher)
 [Documentation antispam Microsoft](https://docs.microsoft.com/fr-fr/microsoft-365/security/office-365-security/anti-spam-message-headers?view=o365-worldwide) 
+
 ![SPF_DKIM_DMARC](./Images/FIc1FKwXIAQiBPj.jpg)
 
 > Source: https://twitter.com/JBizzle703/status/1479209470114861057/photo/1
