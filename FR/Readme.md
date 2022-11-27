@@ -11,6 +11,7 @@ C'est bien, mais ça ne permet pas de savoir l'ampleur du vol.
 
 Les phases d'analyse et recommandations seront décrites plus bas.
 Le diagramme est disponible dans le repo si besoin.
+
 ![diagram_fr](./Images/diagram_fr.png)
 
 
@@ -24,6 +25,7 @@ Il vous faudra aussi les mails originaux à analyser.
 Pour obtenir les informations suivantes il faut ouvrir le fichier via un éditeur de texte comme notepad++, bloc-notes ou encore VS Code.
 
 Dans certains cas (par exemple avec Office365), ses informations sont à obtenir en ouvrant le mail puis en allant dans Fichier > Propriété puis en copiant la partie « en-têtes internet » dans un éditeur de texte.
+
 ![Illustration](./Images/Headers.png)
 
 ## Contrôle émetteur
@@ -150,12 +152,13 @@ VirusTotal permet d'avoir instantanément l'évaluation de l'URL auprès de pres
 
 C'est en revanche plus long (parfois 10 minutes pour un pdf) mais en cas de nouvelle menace, on obtient un résultat plus fiable.
 
-[hybridAnalysis.png](./Images/hybridAnalysis.png)
+![hybridAnalysis.png](./Images/hybridAnalysis.png)
 
 # Signaler le mail auprès des autorités
 Maintenant que la menace est éradiquée, allons aider la communauté à ne pas se faire avoir par ce spam en le signalant sur [Signal-Spam](https://www.signal-spam.fr).
 
 # Approfondir le sujet
+
 ![sources](./Images/sources.jpg)
 
 Retrouver l'article sur le blog : https://www.geekmunity.fr/?p=2327
@@ -169,6 +172,7 @@ Retrouver l'article sur le blog : https://www.geekmunity.fr/?p=2327
 [GoPhish – Simulated Phishing Exercise Toolkit](https://getgophish.com/)
 [SpearPhisher by TrustedSec – Simulated Phishing Exercise Toolkit](https://github.com/kevthehermit/SpearPhisher)
 [Documentation antispam Microsoft](https://docs.microsoft.com/fr-fr/microsoft-365/security/office-365-security/anti-spam-message-headers?view=o365-worldwide) 
+
 ![SPF_DKIM_DMARC](./Images/FIc1FKwXIAQiBPj.jpg)
 
 > Source: https://twitter.com/JBizzle703/status/1479209470114861057/photo/1
